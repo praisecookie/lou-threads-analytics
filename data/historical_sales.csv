@@ -1,0 +1,524 @@
+Order_ID,Collection_Name,Item_Type,Units_Sold,Unit_Price,Total_Revenue,Collection_Category
+ORD-1000,Summer Breeze Returns,Beanie,1,25.0,25.0,Sequel
+ORD-1001,Cyberpunk Couture,Beanie,1,30.0,30.0,Original
+ORD-1002,Denim Days V2,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1003,Summer Breeze Returns,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1004,Vintage Vault,Sundress,3,72.0,216.0,Original
+ORD-1005,Vintage Vault,Sundress,1,72.0,72.0,Original
+ORD-1006,Eco-Chic Fall,Beanie,1,30.0,30.0,Original
+ORD-1007,Denim Days V2,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1008,Vintage Vault,Sundress,1,72.0,72.0,Original
+ORD-1009,Eco-Chic Fall,Distressed Jeans,1,90.0,90.0,Original
+ORD-1010,Vintage Vault,Leather Jacket,1,144.0,144.0,Original
+ORD-1011,Denim Days V2,Beanie,1,25.0,25.0,Sequel
+ORD-1012,Vintage Vault,Leather Jacket,3,144.0,432.0,Original
+ORD-1013,Eco-Chic Fall,Leather Jacket,1,144.0,144.0,Original
+ORD-1014,Vintage Vault,Sundress,1,72.0,72.0,Original
+ORD-1015,Summer Breeze Returns,Beanie,3,25.0,75.0,Sequel
+ORD-1016,Urban Essentials 2.0,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1017,Vintage Vault,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1018,Eco-Chic Fall,Sundress,1,72.0,72.0,Original
+ORD-1019,Urban Essentials 2.0,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1020,Eco-Chic Fall,Sundress,1,72.0,72.0,Original
+ORD-1021,Lunar Loungewear,Sundress,1,72.0,72.0,Original
+ORD-1022,Cyberpunk Couture,Beanie,1,30.0,30.0,Original
+ORD-1023,Summer Breeze Returns,Graphic T-Shirt,4,35.0,140.0,Sequel
+ORD-1024,Vintage Vault,Beanie,1,30.0,30.0,Original
+ORD-1025,Neon Nights II,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1026,Summer Breeze Returns,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1027,Lunar Loungewear,Distressed Jeans,1,90.0,90.0,Original
+ORD-1028,Lunar Loungewear,Distressed Jeans,2,90.0,180.0,Original
+ORD-1029,Urban Essentials 2.0,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1030,Neon Nights II,Sundress,1,60.0,60.0,Sequel
+ORD-1031,Lunar Loungewear,Beanie,2,30.0,60.0,Original
+ORD-1032,Eco-Chic Fall,Distressed Jeans,1,90.0,90.0,Original
+ORD-1033,Neon Nights II,Distressed Jeans,2,75.0,150.0,Sequel
+ORD-1034,Lunar Loungewear,Distressed Jeans,1,90.0,90.0,Original
+ORD-1035,Urban Essentials 2.0,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1036,Denim Days V2,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1037,Vintage Vault,Beanie,1,30.0,30.0,Original
+ORD-1038,Denim Days V2,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1039,Summer Breeze Returns,Distressed Jeans,2,75.0,150.0,Sequel
+ORD-1040,Eco-Chic Fall,Graphic T-Shirt,2,42.0,84.0,Original
+ORD-1041,Neon Nights II,Sundress,3,60.0,180.0,Sequel
+ORD-1042,Vintage Vault,Distressed Jeans,1,90.0,90.0,Original
+ORD-1043,Summer Breeze Returns,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1044,Neon Nights II,Leather Jacket,2,120.0,240.0,Sequel
+ORD-1045,Summer Breeze Returns,Beanie,3,25.0,75.0,Sequel
+ORD-1046,Urban Essentials 2.0,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1047,Neon Nights II,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1048,Lunar Loungewear,Distressed Jeans,1,90.0,90.0,Original
+ORD-1049,Vintage Vault,Leather Jacket,1,144.0,144.0,Original
+ORD-1050,Cyberpunk Couture,Graphic T-Shirt,3,42.0,126.0,Original
+ORD-1051,Lunar Loungewear,Graphic T-Shirt,2,42.0,84.0,Original
+ORD-1052,Neon Nights II,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1053,Eco-Chic Fall,Sundress,1,72.0,72.0,Original
+ORD-1054,Summer Breeze Returns,Leather Jacket,2,120.0,240.0,Sequel
+ORD-1055,Eco-Chic Fall,Beanie,1,30.0,30.0,Original
+ORD-1056,Eco-Chic Fall,Sundress,1,72.0,72.0,Original
+ORD-1057,Lunar Loungewear,Leather Jacket,2,144.0,288.0,Original
+ORD-1058,Cyberpunk Couture,Sundress,3,72.0,216.0,Original
+ORD-1059,Lunar Loungewear,Leather Jacket,1,144.0,144.0,Original
+ORD-1060,Urban Essentials 2.0,Beanie,3,25.0,75.0,Sequel
+ORD-1061,Lunar Loungewear,Sundress,1,72.0,72.0,Original
+ORD-1062,Denim Days V2,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1063,Summer Breeze Returns,Leather Jacket,2,120.0,240.0,Sequel
+ORD-1064,Lunar Loungewear,Graphic T-Shirt,2,42.0,84.0,Original
+ORD-1065,Summer Breeze Returns,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1066,Denim Days V2,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1067,Vintage Vault,Graphic T-Shirt,3,42.0,126.0,Original
+ORD-1068,Vintage Vault,Leather Jacket,1,144.0,144.0,Original
+ORD-1069,Eco-Chic Fall,Sundress,1,72.0,72.0,Original
+ORD-1070,Lunar Loungewear,Leather Jacket,1,144.0,144.0,Original
+ORD-1071,Summer Breeze Returns,Distressed Jeans,3,75.0,225.0,Sequel
+ORD-1072,Vintage Vault,Leather Jacket,1,144.0,144.0,Original
+ORD-1073,Neon Nights II,Sundress,3,60.0,180.0,Sequel
+ORD-1074,Eco-Chic Fall,Distressed Jeans,1,90.0,90.0,Original
+ORD-1075,Denim Days V2,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1076,Eco-Chic Fall,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1077,Summer Breeze Returns,Beanie,1,25.0,25.0,Sequel
+ORD-1078,Summer Breeze Returns,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1079,Vintage Vault,Distressed Jeans,1,90.0,90.0,Original
+ORD-1080,Summer Breeze Returns,Sundress,2,60.0,120.0,Sequel
+ORD-1081,Lunar Loungewear,Beanie,1,30.0,30.0,Original
+ORD-1082,Lunar Loungewear,Distressed Jeans,2,90.0,180.0,Original
+ORD-1083,Cyberpunk Couture,Sundress,1,72.0,72.0,Original
+ORD-1084,Neon Nights II,Sundress,2,60.0,120.0,Sequel
+ORD-1085,Summer Breeze Returns,Distressed Jeans,2,75.0,150.0,Sequel
+ORD-1086,Cyberpunk Couture,Sundress,3,72.0,216.0,Original
+ORD-1087,Urban Essentials 2.0,Beanie,3,25.0,75.0,Sequel
+ORD-1088,Cyberpunk Couture,Beanie,3,30.0,90.0,Original
+ORD-1089,Urban Essentials 2.0,Beanie,2,25.0,50.0,Sequel
+ORD-1090,Cyberpunk Couture,Sundress,1,72.0,72.0,Original
+ORD-1091,Summer Breeze Returns,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1092,Eco-Chic Fall,Leather Jacket,1,144.0,144.0,Original
+ORD-1093,Eco-Chic Fall,Distressed Jeans,1,90.0,90.0,Original
+ORD-1094,Eco-Chic Fall,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1095,Eco-Chic Fall,Graphic T-Shirt,2,42.0,84.0,Original
+ORD-1096,Neon Nights II,Distressed Jeans,2,75.0,150.0,Sequel
+ORD-1097,Neon Nights II,Graphic T-Shirt,3,35.0,105.0,Sequel
+ORD-1098,Urban Essentials 2.0,Leather Jacket,2,120.0,240.0,Sequel
+ORD-1099,Eco-Chic Fall,Leather Jacket,1,144.0,144.0,Original
+ORD-1100,Cyberpunk Couture,Sundress,2,72.0,144.0,Original
+ORD-1101,Summer Breeze Returns,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1102,Denim Days V2,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1103,Urban Essentials 2.0,Beanie,3,25.0,75.0,Sequel
+ORD-1104,Eco-Chic Fall,Leather Jacket,1,144.0,144.0,Original
+ORD-1105,Lunar Loungewear,Distressed Jeans,1,90.0,90.0,Original
+ORD-1106,Summer Breeze Returns,Beanie,1,25.0,25.0,Sequel
+ORD-1107,Cyberpunk Couture,Sundress,2,72.0,144.0,Original
+ORD-1108,Vintage Vault,Distressed Jeans,1,90.0,90.0,Original
+ORD-1109,Vintage Vault,Beanie,3,30.0,90.0,Original
+ORD-1110,Eco-Chic Fall,Distressed Jeans,2,90.0,180.0,Original
+ORD-1111,Denim Days V2,Sundress,2,60.0,120.0,Sequel
+ORD-1112,Cyberpunk Couture,Graphic T-Shirt,3,42.0,126.0,Original
+ORD-1113,Denim Days V2,Leather Jacket,2,120.0,240.0,Sequel
+ORD-1114,Urban Essentials 2.0,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1115,Vintage Vault,Leather Jacket,1,144.0,144.0,Original
+ORD-1116,Neon Nights II,Beanie,2,25.0,50.0,Sequel
+ORD-1117,Neon Nights II,Beanie,1,25.0,25.0,Sequel
+ORD-1118,Eco-Chic Fall,Distressed Jeans,2,90.0,180.0,Original
+ORD-1119,Neon Nights II,Sundress,1,60.0,60.0,Sequel
+ORD-1120,Urban Essentials 2.0,Sundress,1,60.0,60.0,Sequel
+ORD-1121,Eco-Chic Fall,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1122,Summer Breeze Returns,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1123,Denim Days V2,Graphic T-Shirt,2,35.0,70.0,Sequel
+ORD-1124,Summer Breeze Returns,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1125,Eco-Chic Fall,Distressed Jeans,1,90.0,90.0,Original
+ORD-1126,Summer Breeze Returns,Beanie,2,25.0,50.0,Sequel
+ORD-1127,Vintage Vault,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1128,Vintage Vault,Distressed Jeans,2,90.0,180.0,Original
+ORD-1129,Eco-Chic Fall,Distressed Jeans,1,90.0,90.0,Original
+ORD-1130,Neon Nights II,Distressed Jeans,3,75.0,225.0,Sequel
+ORD-1131,Lunar Loungewear,Leather Jacket,3,144.0,432.0,Original
+ORD-1132,Lunar Loungewear,Sundress,1,72.0,72.0,Original
+ORD-1133,Lunar Loungewear,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1134,Lunar Loungewear,Leather Jacket,1,144.0,144.0,Original
+ORD-1135,Urban Essentials 2.0,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1136,Lunar Loungewear,Leather Jacket,1,144.0,144.0,Original
+ORD-1137,Cyberpunk Couture,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1138,Summer Breeze Returns,Sundress,1,60.0,60.0,Sequel
+ORD-1139,Neon Nights II,Sundress,1,60.0,60.0,Sequel
+ORD-1140,Summer Breeze Returns,Distressed Jeans,4,75.0,300.0,Sequel
+ORD-1141,Vintage Vault,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1142,Vintage Vault,Beanie,1,30.0,30.0,Original
+ORD-1143,Neon Nights II,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1144,Cyberpunk Couture,Leather Jacket,1,144.0,144.0,Original
+ORD-1145,Cyberpunk Couture,Beanie,2,30.0,60.0,Original
+ORD-1146,Summer Breeze Returns,Sundress,4,60.0,240.0,Sequel
+ORD-1147,Summer Breeze Returns,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1148,Lunar Loungewear,Sundress,1,72.0,72.0,Original
+ORD-1149,Summer Breeze Returns,Beanie,1,25.0,25.0,Sequel
+ORD-1150,Cyberpunk Couture,Sundress,1,72.0,72.0,Original
+ORD-1151,Cyberpunk Couture,Leather Jacket,1,144.0,144.0,Original
+ORD-1152,Urban Essentials 2.0,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1153,Urban Essentials 2.0,Beanie,2,25.0,50.0,Sequel
+ORD-1154,Denim Days V2,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1155,Cyberpunk Couture,Graphic T-Shirt,2,42.0,84.0,Original
+ORD-1156,Neon Nights II,Beanie,1,25.0,25.0,Sequel
+ORD-1157,Urban Essentials 2.0,Distressed Jeans,2,75.0,150.0,Sequel
+ORD-1158,Neon Nights II,Beanie,1,25.0,25.0,Sequel
+ORD-1159,Vintage Vault,Beanie,1,30.0,30.0,Original
+ORD-1160,Cyberpunk Couture,Leather Jacket,1,144.0,144.0,Original
+ORD-1161,Eco-Chic Fall,Sundress,1,72.0,72.0,Original
+ORD-1162,Summer Breeze Returns,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1163,Denim Days V2,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1164,Vintage Vault,Graphic T-Shirt,2,42.0,84.0,Original
+ORD-1165,Cyberpunk Couture,Leather Jacket,2,144.0,288.0,Original
+ORD-1166,Neon Nights II,Sundress,4,60.0,240.0,Sequel
+ORD-1167,Summer Breeze Returns,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1168,Urban Essentials 2.0,Beanie,4,25.0,100.0,Sequel
+ORD-1169,Cyberpunk Couture,Beanie,1,30.0,30.0,Original
+ORD-1170,Summer Breeze Returns,Beanie,4,25.0,100.0,Sequel
+ORD-1171,Summer Breeze Returns,Distressed Jeans,2,75.0,150.0,Sequel
+ORD-1172,Urban Essentials 2.0,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1173,Denim Days V2,Leather Jacket,2,120.0,240.0,Sequel
+ORD-1174,Lunar Loungewear,Leather Jacket,3,144.0,432.0,Original
+ORD-1175,Vintage Vault,Sundress,1,72.0,72.0,Original
+ORD-1176,Summer Breeze Returns,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1177,Vintage Vault,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1178,Vintage Vault,Beanie,3,30.0,90.0,Original
+ORD-1179,Lunar Loungewear,Leather Jacket,1,144.0,144.0,Original
+ORD-1180,Summer Breeze Returns,Beanie,2,25.0,50.0,Sequel
+ORD-1181,Neon Nights II,Distressed Jeans,3,75.0,225.0,Sequel
+ORD-1182,Lunar Loungewear,Beanie,1,30.0,30.0,Original
+ORD-1183,Eco-Chic Fall,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1184,Denim Days V2,Leather Jacket,2,120.0,240.0,Sequel
+ORD-1185,Vintage Vault,Leather Jacket,1,144.0,144.0,Original
+ORD-1186,Lunar Loungewear,Leather Jacket,3,144.0,432.0,Original
+ORD-1187,Neon Nights II,Beanie,1,25.0,25.0,Sequel
+ORD-1188,Denim Days V2,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1189,Urban Essentials 2.0,Sundress,3,60.0,180.0,Sequel
+ORD-1190,Neon Nights II,Distressed Jeans,2,75.0,150.0,Sequel
+ORD-1191,Neon Nights II,Beanie,2,25.0,50.0,Sequel
+ORD-1192,Neon Nights II,Beanie,1,25.0,25.0,Sequel
+ORD-1193,Cyberpunk Couture,Distressed Jeans,1,90.0,90.0,Original
+ORD-1194,Eco-Chic Fall,Leather Jacket,1,144.0,144.0,Original
+ORD-1195,Eco-Chic Fall,Sundress,1,72.0,72.0,Original
+ORD-1196,Urban Essentials 2.0,Graphic T-Shirt,2,35.0,70.0,Sequel
+ORD-1197,Lunar Loungewear,Distressed Jeans,1,90.0,90.0,Original
+ORD-1198,Urban Essentials 2.0,Sundress,2,60.0,120.0,Sequel
+ORD-1199,Lunar Loungewear,Leather Jacket,1,144.0,144.0,Original
+ORD-1200,Denim Days V2,Beanie,2,25.0,50.0,Sequel
+ORD-1201,Lunar Loungewear,Distressed Jeans,3,90.0,270.0,Original
+ORD-1202,Vintage Vault,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1203,Eco-Chic Fall,Distressed Jeans,1,90.0,90.0,Original
+ORD-1204,Vintage Vault,Leather Jacket,1,144.0,144.0,Original
+ORD-1205,Lunar Loungewear,Sundress,1,72.0,72.0,Original
+ORD-1206,Lunar Loungewear,Leather Jacket,3,144.0,432.0,Original
+ORD-1207,Eco-Chic Fall,Leather Jacket,1,144.0,144.0,Original
+ORD-1208,Vintage Vault,Beanie,3,30.0,90.0,Original
+ORD-1209,Urban Essentials 2.0,Beanie,1,25.0,25.0,Sequel
+ORD-1210,Summer Breeze Returns,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1211,Denim Days V2,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1212,Vintage Vault,Sundress,1,72.0,72.0,Original
+ORD-1213,Summer Breeze Returns,Distressed Jeans,2,75.0,150.0,Sequel
+ORD-1214,Eco-Chic Fall,Beanie,1,30.0,30.0,Original
+ORD-1215,Neon Nights II,Beanie,1,25.0,25.0,Sequel
+ORD-1216,Cyberpunk Couture,Beanie,1,30.0,30.0,Original
+ORD-1217,Neon Nights II,Sundress,1,60.0,60.0,Sequel
+ORD-1218,Cyberpunk Couture,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1219,Urban Essentials 2.0,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1220,Lunar Loungewear,Distressed Jeans,3,90.0,270.0,Original
+ORD-1221,Neon Nights II,Graphic T-Shirt,3,35.0,105.0,Sequel
+ORD-1222,Cyberpunk Couture,Distressed Jeans,1,90.0,90.0,Original
+ORD-1223,Denim Days V2,Graphic T-Shirt,2,35.0,70.0,Sequel
+ORD-1224,Vintage Vault,Graphic T-Shirt,2,42.0,84.0,Original
+ORD-1225,Lunar Loungewear,Distressed Jeans,2,90.0,180.0,Original
+ORD-1226,Denim Days V2,Distressed Jeans,2,75.0,150.0,Sequel
+ORD-1227,Urban Essentials 2.0,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1228,Denim Days V2,Leather Jacket,2,120.0,240.0,Sequel
+ORD-1229,Eco-Chic Fall,Leather Jacket,2,144.0,288.0,Original
+ORD-1230,Eco-Chic Fall,Sundress,1,72.0,72.0,Original
+ORD-1231,Summer Breeze Returns,Leather Jacket,2,120.0,240.0,Sequel
+ORD-1232,Neon Nights II,Beanie,1,25.0,25.0,Sequel
+ORD-1233,Lunar Loungewear,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1234,Cyberpunk Couture,Sundress,1,72.0,72.0,Original
+ORD-1235,Neon Nights II,Sundress,2,60.0,120.0,Sequel
+ORD-1236,Lunar Loungewear,Distressed Jeans,3,90.0,270.0,Original
+ORD-1237,Neon Nights II,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1238,Urban Essentials 2.0,Sundress,3,60.0,180.0,Sequel
+ORD-1239,Eco-Chic Fall,Leather Jacket,1,144.0,144.0,Original
+ORD-1240,Denim Days V2,Beanie,4,25.0,100.0,Sequel
+ORD-1241,Urban Essentials 2.0,Graphic T-Shirt,2,35.0,70.0,Sequel
+ORD-1242,Summer Breeze Returns,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1243,Lunar Loungewear,Leather Jacket,2,144.0,288.0,Original
+ORD-1244,Summer Breeze Returns,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1245,Cyberpunk Couture,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1246,Summer Breeze Returns,Leather Jacket,2,120.0,240.0,Sequel
+ORD-1247,Lunar Loungewear,Leather Jacket,1,144.0,144.0,Original
+ORD-1248,Eco-Chic Fall,Beanie,1,30.0,30.0,Original
+ORD-1249,Summer Breeze Returns,Beanie,2,25.0,50.0,Sequel
+ORD-1250,Urban Essentials 2.0,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1251,Denim Days V2,Graphic T-Shirt,4,35.0,140.0,Sequel
+ORD-1252,Summer Breeze Returns,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1253,Neon Nights II,Leather Jacket,2,120.0,240.0,Sequel
+ORD-1254,Denim Days V2,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1255,Neon Nights II,Sundress,4,60.0,240.0,Sequel
+ORD-1256,Cyberpunk Couture,Distressed Jeans,3,90.0,270.0,Original
+ORD-1257,Lunar Loungewear,Distressed Jeans,3,90.0,270.0,Original
+ORD-1258,Eco-Chic Fall,Sundress,2,72.0,144.0,Original
+ORD-1259,Lunar Loungewear,Leather Jacket,2,144.0,288.0,Original
+ORD-1260,Eco-Chic Fall,Distressed Jeans,1,90.0,90.0,Original
+ORD-1261,Denim Days V2,Distressed Jeans,2,75.0,150.0,Sequel
+ORD-1262,Vintage Vault,Leather Jacket,2,144.0,288.0,Original
+ORD-1263,Urban Essentials 2.0,Distressed Jeans,2,75.0,150.0,Sequel
+ORD-1264,Denim Days V2,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1265,Denim Days V2,Graphic T-Shirt,2,35.0,70.0,Sequel
+ORD-1266,Vintage Vault,Distressed Jeans,1,90.0,90.0,Original
+ORD-1267,Eco-Chic Fall,Distressed Jeans,1,90.0,90.0,Original
+ORD-1268,Eco-Chic Fall,Sundress,2,72.0,144.0,Original
+ORD-1269,Neon Nights II,Sundress,2,60.0,120.0,Sequel
+ORD-1270,Summer Breeze Returns,Beanie,1,25.0,25.0,Sequel
+ORD-1271,Neon Nights II,Beanie,2,25.0,50.0,Sequel
+ORD-1272,Urban Essentials 2.0,Sundress,2,60.0,120.0,Sequel
+ORD-1273,Cyberpunk Couture,Distressed Jeans,2,90.0,180.0,Original
+ORD-1274,Eco-Chic Fall,Beanie,1,30.0,30.0,Original
+ORD-1275,Cyberpunk Couture,Sundress,1,72.0,72.0,Original
+ORD-1276,Summer Breeze Returns,Beanie,1,25.0,25.0,Sequel
+ORD-1277,Vintage Vault,Beanie,2,30.0,60.0,Original
+ORD-1278,Denim Days V2,Distressed Jeans,2,75.0,150.0,Sequel
+ORD-1279,Lunar Loungewear,Distressed Jeans,1,90.0,90.0,Original
+ORD-1280,Urban Essentials 2.0,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1281,Vintage Vault,Graphic T-Shirt,3,42.0,126.0,Original
+ORD-1282,Eco-Chic Fall,Beanie,1,30.0,30.0,Original
+ORD-1283,Cyberpunk Couture,Leather Jacket,1,144.0,144.0,Original
+ORD-1284,Lunar Loungewear,Sundress,1,72.0,72.0,Original
+ORD-1285,Vintage Vault,Beanie,3,30.0,90.0,Original
+ORD-1286,Lunar Loungewear,Graphic T-Shirt,2,42.0,84.0,Original
+ORD-1287,Urban Essentials 2.0,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1288,Urban Essentials 2.0,Leather Jacket,3,120.0,360.0,Sequel
+ORD-1289,Neon Nights II,Beanie,4,25.0,100.0,Sequel
+ORD-1290,Vintage Vault,Leather Jacket,1,144.0,144.0,Original
+ORD-1291,Lunar Loungewear,Distressed Jeans,1,90.0,90.0,Original
+ORD-1292,Denim Days V2,Leather Jacket,2,120.0,240.0,Sequel
+ORD-1293,Vintage Vault,Leather Jacket,1,144.0,144.0,Original
+ORD-1294,Denim Days V2,Sundress,2,60.0,120.0,Sequel
+ORD-1295,Urban Essentials 2.0,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1296,Urban Essentials 2.0,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1297,Denim Days V2,Sundress,3,60.0,180.0,Sequel
+ORD-1298,Vintage Vault,Leather Jacket,1,144.0,144.0,Original
+ORD-1299,Cyberpunk Couture,Leather Jacket,1,144.0,144.0,Original
+ORD-1300,Denim Days V2,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1301,Neon Nights II,Leather Jacket,4,120.0,480.0,Sequel
+ORD-1302,Summer Breeze Returns,Sundress,2,60.0,120.0,Sequel
+ORD-1303,Cyberpunk Couture,Leather Jacket,1,144.0,144.0,Original
+ORD-1304,Lunar Loungewear,Distressed Jeans,1,90.0,90.0,Original
+ORD-1305,Urban Essentials 2.0,Beanie,2,25.0,50.0,Sequel
+ORD-1306,Urban Essentials 2.0,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1307,Lunar Loungewear,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1308,Cyberpunk Couture,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1309,Denim Days V2,Sundress,1,60.0,60.0,Sequel
+ORD-1310,Denim Days V2,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1311,Lunar Loungewear,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1312,Denim Days V2,Sundress,3,60.0,180.0,Sequel
+ORD-1313,Neon Nights II,Leather Jacket,2,120.0,240.0,Sequel
+ORD-1314,Summer Breeze Returns,Distressed Jeans,2,75.0,150.0,Sequel
+ORD-1315,Eco-Chic Fall,Leather Jacket,2,144.0,288.0,Original
+ORD-1316,Denim Days V2,Leather Jacket,2,120.0,240.0,Sequel
+ORD-1317,Eco-Chic Fall,Distressed Jeans,1,90.0,90.0,Original
+ORD-1318,Vintage Vault,Distressed Jeans,3,90.0,270.0,Original
+ORD-1319,Cyberpunk Couture,Beanie,1,30.0,30.0,Original
+ORD-1320,Summer Breeze Returns,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1321,Neon Nights II,Beanie,1,25.0,25.0,Sequel
+ORD-1322,Denim Days V2,Sundress,2,60.0,120.0,Sequel
+ORD-1323,Eco-Chic Fall,Leather Jacket,2,144.0,288.0,Original
+ORD-1324,Lunar Loungewear,Graphic T-Shirt,2,42.0,84.0,Original
+ORD-1325,Denim Days V2,Sundress,3,60.0,180.0,Sequel
+ORD-1326,Urban Essentials 2.0,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1327,Lunar Loungewear,Sundress,3,72.0,216.0,Original
+ORD-1328,Vintage Vault,Leather Jacket,2,144.0,288.0,Original
+ORD-1329,Lunar Loungewear,Leather Jacket,1,144.0,144.0,Original
+ORD-1330,Urban Essentials 2.0,Leather Jacket,2,120.0,240.0,Sequel
+ORD-1331,Neon Nights II,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1332,Urban Essentials 2.0,Sundress,1,60.0,60.0,Sequel
+ORD-1333,Neon Nights II,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1334,Urban Essentials 2.0,Graphic T-Shirt,2,35.0,70.0,Sequel
+ORD-1335,Vintage Vault,Leather Jacket,1,144.0,144.0,Original
+ORD-1336,Neon Nights II,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1337,Lunar Loungewear,Beanie,1,30.0,30.0,Original
+ORD-1338,Denim Days V2,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1339,Summer Breeze Returns,Graphic T-Shirt,2,35.0,70.0,Sequel
+ORD-1340,Neon Nights II,Graphic T-Shirt,3,35.0,105.0,Sequel
+ORD-1341,Cyberpunk Couture,Sundress,2,72.0,144.0,Original
+ORD-1342,Vintage Vault,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1343,Neon Nights II,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1344,Urban Essentials 2.0,Beanie,1,25.0,25.0,Sequel
+ORD-1345,Lunar Loungewear,Sundress,2,72.0,144.0,Original
+ORD-1346,Summer Breeze Returns,Distressed Jeans,3,75.0,225.0,Sequel
+ORD-1347,Denim Days V2,Beanie,1,25.0,25.0,Sequel
+ORD-1348,Vintage Vault,Sundress,1,72.0,72.0,Original
+ORD-1349,Lunar Loungewear,Leather Jacket,1,144.0,144.0,Original
+ORD-1350,Denim Days V2,Graphic T-Shirt,2,35.0,70.0,Sequel
+ORD-1351,Cyberpunk Couture,Leather Jacket,1,144.0,144.0,Original
+ORD-1352,Neon Nights II,Leather Jacket,2,120.0,240.0,Sequel
+ORD-1353,Eco-Chic Fall,Leather Jacket,1,144.0,144.0,Original
+ORD-1354,Urban Essentials 2.0,Beanie,1,25.0,25.0,Sequel
+ORD-1355,Urban Essentials 2.0,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1356,Summer Breeze Returns,Distressed Jeans,3,75.0,225.0,Sequel
+ORD-1357,Neon Nights II,Graphic T-Shirt,2,35.0,70.0,Sequel
+ORD-1358,Denim Days V2,Sundress,2,60.0,120.0,Sequel
+ORD-1359,Lunar Loungewear,Beanie,2,30.0,60.0,Original
+ORD-1360,Urban Essentials 2.0,Leather Jacket,3,120.0,360.0,Sequel
+ORD-1361,Lunar Loungewear,Distressed Jeans,3,90.0,270.0,Original
+ORD-1362,Urban Essentials 2.0,Graphic T-Shirt,2,35.0,70.0,Sequel
+ORD-1363,Denim Days V2,Graphic T-Shirt,2,35.0,70.0,Sequel
+ORD-1364,Lunar Loungewear,Beanie,2,30.0,60.0,Original
+ORD-1365,Summer Breeze Returns,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1366,Urban Essentials 2.0,Sundress,3,60.0,180.0,Sequel
+ORD-1367,Lunar Loungewear,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1368,Lunar Loungewear,Distressed Jeans,1,90.0,90.0,Original
+ORD-1369,Urban Essentials 2.0,Distressed Jeans,2,75.0,150.0,Sequel
+ORD-1370,Eco-Chic Fall,Sundress,1,72.0,72.0,Original
+ORD-1371,Cyberpunk Couture,Sundress,2,72.0,144.0,Original
+ORD-1372,Neon Nights II,Graphic T-Shirt,2,35.0,70.0,Sequel
+ORD-1373,Urban Essentials 2.0,Sundress,1,60.0,60.0,Sequel
+ORD-1374,Denim Days V2,Graphic T-Shirt,4,35.0,140.0,Sequel
+ORD-1375,Denim Days V2,Beanie,2,25.0,50.0,Sequel
+ORD-1376,Vintage Vault,Distressed Jeans,1,90.0,90.0,Original
+ORD-1377,Vintage Vault,Beanie,2,30.0,60.0,Original
+ORD-1378,Urban Essentials 2.0,Beanie,1,25.0,25.0,Sequel
+ORD-1379,Vintage Vault,Sundress,3,72.0,216.0,Original
+ORD-1380,Eco-Chic Fall,Leather Jacket,1,144.0,144.0,Original
+ORD-1381,Cyberpunk Couture,Leather Jacket,1,144.0,144.0,Original
+ORD-1382,Neon Nights II,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1383,Cyberpunk Couture,Leather Jacket,1,144.0,144.0,Original
+ORD-1384,Urban Essentials 2.0,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1385,Summer Breeze Returns,Sundress,1,60.0,60.0,Sequel
+ORD-1386,Cyberpunk Couture,Beanie,1,30.0,30.0,Original
+ORD-1387,Eco-Chic Fall,Distressed Jeans,3,90.0,270.0,Original
+ORD-1388,Cyberpunk Couture,Sundress,1,72.0,72.0,Original
+ORD-1389,Vintage Vault,Beanie,1,30.0,30.0,Original
+ORD-1390,Denim Days V2,Beanie,1,25.0,25.0,Sequel
+ORD-1391,Urban Essentials 2.0,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1392,Urban Essentials 2.0,Distressed Jeans,3,75.0,225.0,Sequel
+ORD-1393,Neon Nights II,Leather Jacket,2,120.0,240.0,Sequel
+ORD-1394,Eco-Chic Fall,Leather Jacket,1,144.0,144.0,Original
+ORD-1395,Lunar Loungewear,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1396,Summer Breeze Returns,Distressed Jeans,3,75.0,225.0,Sequel
+ORD-1397,Cyberpunk Couture,Beanie,1,30.0,30.0,Original
+ORD-1398,Summer Breeze Returns,Beanie,1,25.0,25.0,Sequel
+ORD-1399,Summer Breeze Returns,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1400,Neon Nights II,Distressed Jeans,4,75.0,300.0,Sequel
+ORD-1401,Eco-Chic Fall,Leather Jacket,1,144.0,144.0,Original
+ORD-1402,Neon Nights II,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1403,Vintage Vault,Distressed Jeans,2,90.0,180.0,Original
+ORD-1404,Eco-Chic Fall,Beanie,1,30.0,30.0,Original
+ORD-1405,Summer Breeze Returns,Beanie,4,25.0,100.0,Sequel
+ORD-1406,Vintage Vault,Beanie,1,30.0,30.0,Original
+ORD-1407,Denim Days V2,Graphic T-Shirt,2,35.0,70.0,Sequel
+ORD-1408,Eco-Chic Fall,Distressed Jeans,2,90.0,180.0,Original
+ORD-1409,Urban Essentials 2.0,Distressed Jeans,3,75.0,225.0,Sequel
+ORD-1410,Cyberpunk Couture,Distressed Jeans,2,90.0,180.0,Original
+ORD-1411,Neon Nights II,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1412,Urban Essentials 2.0,Sundress,2,60.0,120.0,Sequel
+ORD-1413,Vintage Vault,Beanie,2,30.0,60.0,Original
+ORD-1414,Cyberpunk Couture,Distressed Jeans,2,90.0,180.0,Original
+ORD-1415,Eco-Chic Fall,Distressed Jeans,1,90.0,90.0,Original
+ORD-1416,Denim Days V2,Graphic T-Shirt,3,35.0,105.0,Sequel
+ORD-1417,Cyberpunk Couture,Beanie,1,30.0,30.0,Original
+ORD-1418,Vintage Vault,Beanie,1,30.0,30.0,Original
+ORD-1419,Neon Nights II,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1420,Vintage Vault,Beanie,2,30.0,60.0,Original
+ORD-1421,Lunar Loungewear,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1422,Lunar Loungewear,Sundress,1,72.0,72.0,Original
+ORD-1423,Cyberpunk Couture,Beanie,2,30.0,60.0,Original
+ORD-1424,Vintage Vault,Sundress,1,72.0,72.0,Original
+ORD-1425,Summer Breeze Returns,Leather Jacket,2,120.0,240.0,Sequel
+ORD-1426,Urban Essentials 2.0,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1427,Lunar Loungewear,Graphic T-Shirt,2,42.0,84.0,Original
+ORD-1428,Lunar Loungewear,Beanie,1,30.0,30.0,Original
+ORD-1429,Denim Days V2,Sundress,2,60.0,120.0,Sequel
+ORD-1430,Neon Nights II,Distressed Jeans,3,75.0,225.0,Sequel
+ORD-1431,Denim Days V2,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1432,Urban Essentials 2.0,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1433,Summer Breeze Returns,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1434,Denim Days V2,Beanie,2,25.0,50.0,Sequel
+ORD-1435,Vintage Vault,Graphic T-Shirt,2,42.0,84.0,Original
+ORD-1436,Eco-Chic Fall,Distressed Jeans,1,90.0,90.0,Original
+ORD-1437,Urban Essentials 2.0,Sundress,1,60.0,60.0,Sequel
+ORD-1438,Neon Nights II,Beanie,2,25.0,50.0,Sequel
+ORD-1439,Lunar Loungewear,Leather Jacket,1,144.0,144.0,Original
+ORD-1440,Neon Nights II,Graphic T-Shirt,3,35.0,105.0,Sequel
+ORD-1441,Urban Essentials 2.0,Beanie,1,25.0,25.0,Sequel
+ORD-1442,Neon Nights II,Sundress,2,60.0,120.0,Sequel
+ORD-1443,Vintage Vault,Distressed Jeans,3,90.0,270.0,Original
+ORD-1444,Cyberpunk Couture,Leather Jacket,1,144.0,144.0,Original
+ORD-1445,Lunar Loungewear,Distressed Jeans,2,90.0,180.0,Original
+ORD-1446,Lunar Loungewear,Distressed Jeans,2,90.0,180.0,Original
+ORD-1447,Cyberpunk Couture,Sundress,3,72.0,216.0,Original
+ORD-1448,Eco-Chic Fall,Leather Jacket,1,144.0,144.0,Original
+ORD-1449,Neon Nights II,Sundress,1,60.0,60.0,Sequel
+ORD-1450,Urban Essentials 2.0,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1451,Eco-Chic Fall,Beanie,1,30.0,30.0,Original
+ORD-1452,Vintage Vault,Distressed Jeans,3,90.0,270.0,Original
+ORD-1453,Summer Breeze Returns,Beanie,1,25.0,25.0,Sequel
+ORD-1454,Eco-Chic Fall,Distressed Jeans,1,90.0,90.0,Original
+ORD-1455,Summer Breeze Returns,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1456,Lunar Loungewear,Leather Jacket,1,144.0,144.0,Original
+ORD-1457,Urban Essentials 2.0,Sundress,2,60.0,120.0,Sequel
+ORD-1458,Vintage Vault,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1459,Cyberpunk Couture,Leather Jacket,2,144.0,288.0,Original
+ORD-1460,Cyberpunk Couture,Beanie,1,30.0,30.0,Original
+ORD-1461,Lunar Loungewear,Graphic T-Shirt,3,42.0,126.0,Original
+ORD-1462,Eco-Chic Fall,Graphic T-Shirt,2,42.0,84.0,Original
+ORD-1463,Eco-Chic Fall,Sundress,1,72.0,72.0,Original
+ORD-1464,Neon Nights II,Distressed Jeans,3,75.0,225.0,Sequel
+ORD-1465,Urban Essentials 2.0,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1466,Cyberpunk Couture,Graphic T-Shirt,3,42.0,126.0,Original
+ORD-1467,Eco-Chic Fall,Sundress,2,72.0,144.0,Original
+ORD-1468,Lunar Loungewear,Distressed Jeans,1,90.0,90.0,Original
+ORD-1469,Summer Breeze Returns,Sundress,2,60.0,120.0,Sequel
+ORD-1470,Eco-Chic Fall,Distressed Jeans,1,90.0,90.0,Original
+ORD-1471,Eco-Chic Fall,Distressed Jeans,2,90.0,180.0,Original
+ORD-1472,Lunar Loungewear,Sundress,1,72.0,72.0,Original
+ORD-1473,Denim Days V2,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1474,Vintage Vault,Beanie,1,30.0,30.0,Original
+ORD-1475,Neon Nights II,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1476,Eco-Chic Fall,Distressed Jeans,1,90.0,90.0,Original
+ORD-1477,Vintage Vault,Leather Jacket,1,144.0,144.0,Original
+ORD-1478,Eco-Chic Fall,Distressed Jeans,1,90.0,90.0,Original
+ORD-1479,Urban Essentials 2.0,Leather Jacket,3,120.0,360.0,Sequel
+ORD-1480,Urban Essentials 2.0,Beanie,2,25.0,50.0,Sequel
+ORD-1481,Summer Breeze Returns,Sundress,2,60.0,120.0,Sequel
+ORD-1482,Vintage Vault,Sundress,1,72.0,72.0,Original
+ORD-1483,Cyberpunk Couture,Distressed Jeans,1,90.0,90.0,Original
+ORD-1484,Eco-Chic Fall,Beanie,1,30.0,30.0,Original
+ORD-1485,Eco-Chic Fall,Graphic T-Shirt,2,42.0,84.0,Original
+ORD-1486,Urban Essentials 2.0,Distressed Jeans,2,75.0,150.0,Sequel
+ORD-1487,Cyberpunk Couture,Sundress,1,72.0,72.0,Original
+ORD-1488,Vintage Vault,Beanie,2,30.0,60.0,Original
+ORD-1489,Urban Essentials 2.0,Sundress,3,60.0,180.0,Sequel
+ORD-1490,Urban Essentials 2.0,Sundress,1,60.0,60.0,Sequel
+ORD-1491,Lunar Loungewear,Beanie,2,30.0,60.0,Original
+ORD-1492,Neon Nights II,Sundress,1,60.0,60.0,Sequel
+ORD-1493,Vintage Vault,Leather Jacket,1,144.0,144.0,Original
+ORD-1494,Urban Essentials 2.0,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1495,Summer Breeze Returns,Graphic T-Shirt,3,35.0,105.0,Sequel
+ORD-1496,Denim Days V2,Leather Jacket,2,120.0,240.0,Sequel
+ORD-1497,Vintage Vault,Beanie,1,30.0,30.0,Original
+ORD-1498,Denim Days V2,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1499,Vintage Vault,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1500,Eco-Chic Fall,Leather Jacket,1,144.0,144.0,Original
+ORD-1501,Vintage Vault,Distressed Jeans,3,90.0,270.0,Original
+ORD-1502,Summer Breeze Returns,Sundress,1,60.0,60.0,Sequel
+ORD-1503,Neon Nights II,Beanie,2,25.0,50.0,Sequel
+ORD-1504,Neon Nights II,Sundress,1,60.0,60.0,Sequel
+ORD-1505,Denim Days V2,Sundress,2,60.0,120.0,Sequel
+ORD-1506,Eco-Chic Fall,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1507,Summer Breeze Returns,Graphic T-Shirt,1,35.0,35.0,Sequel
+ORD-1508,Denim Days V2,Beanie,3,25.0,75.0,Sequel
+ORD-1509,Neon Nights II,Leather Jacket,2,120.0,240.0,Sequel
+ORD-1510,Eco-Chic Fall,Sundress,3,72.0,216.0,Original
+ORD-1511,Lunar Loungewear,Distressed Jeans,1,90.0,90.0,Original
+ORD-1512,Urban Essentials 2.0,Beanie,3,25.0,75.0,Sequel
+ORD-1513,Summer Breeze Returns,Distressed Jeans,1,75.0,75.0,Sequel
+ORD-1514,Eco-Chic Fall,Sundress,1,72.0,72.0,Original
+ORD-1515,Cyberpunk Couture,Sundress,2,72.0,144.0,Original
+ORD-1516,Vintage Vault,Graphic T-Shirt,1,42.0,42.0,Original
+ORD-1517,Summer Breeze Returns,Beanie,1,25.0,25.0,Sequel
+ORD-1518,Denim Days V2,Graphic T-Shirt,2,35.0,70.0,Sequel
+ORD-1519,Urban Essentials 2.0,Distressed Jeans,2,75.0,150.0,Sequel
+ORD-1520,Eco-Chic Fall,Leather Jacket,2,144.0,288.0,Original
+ORD-1521,Summer Breeze Returns,Leather Jacket,1,120.0,120.0,Sequel
+ORD-1522,Cyberpunk Couture,Sundress,1,72.0,72.0,Original
