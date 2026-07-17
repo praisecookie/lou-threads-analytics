@@ -1,1 +1,19 @@
+# dbt
+target/
+dbt_packages/
+logs/
+
+# Python
 venv/
+__pycache__/
+*.pyc
+
+# Local Database Files (Just in case)
+*.duckdb
+*.db
+
+# OS Files (Mac)
+.DS_Store
+
+# Environment Variables
+.env
