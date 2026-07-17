@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: raw_source
+    database: lou_threads_db
+    schema: main
+    tables:
+      - name: raw_sales
+      - name: raw_marketing
+      - name: raw_reviews
+      - name: raw_trends
