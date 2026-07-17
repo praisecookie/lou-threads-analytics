@@ -91,7 +91,7 @@ for coll in all_collections:
 
 df_marketing = pd.DataFrame(marketing_data, columns=[
                             "Collection_Name", "TikTok_Spend", "IG_Spend", "Google_Ads_Spend", "Total_Spend", "Clicks"])
-df_marketing.to_excel("data/marketing_spend.xlsx", index=False)
+df_marketing.to_csv("data/marketing_spend.csv", index=False)
 
 
 # --- 5. GENERATE TREND INDEX (JSON File) ---
